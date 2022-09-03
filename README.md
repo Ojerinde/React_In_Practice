@@ -14,10 +14,10 @@
 
 The following is all you need to know to use this site:
 
-* Your first name should longer than 3 character.
-* Your last name should be longer than 5 character.
+* Your first name should longer be than 3 characters.
+* Your last name should be longer than 5 characters. 
 * Your email should have @ symbol.
-* Once the three inputs field are valid, the button will be enabled and you can submit.
+* Once the three input fields are valid, the button will be enabled and you can submit.
 * On submission, A succes modal will appear which you can close by clicking the modal or on the close button.
 * The submitted details will be displayed on the card beside it. If you submit more than one time, you can view the next details by clicking on `next` and `prev` to go back.
 * The displayed image is also hard-coded.
