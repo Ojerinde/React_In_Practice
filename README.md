@@ -1,6 +1,6 @@
 # Site Instruction
 
-I built the site to put into practice some React concepts that I had recently learned.
+### I built the site to put into practice some React concepts that I had recently learned.
 
 The following is all you need to know to use the site
 
@@ -12,11 +12,13 @@ The following is all you need to know to use the site
 * The submitted details will be displayed on the card beside it. If you submit more than one time, you can view the next details by clicking on `next` and `prev` to go back.
 * The displayed image is also hard-coded.
 
-### @600px
-image.png
-
 ### @1440px
-image.png
+![image](https://user-images.githubusercontent.com/104495751/188257802-56202344-56c6-4be5-9ab3-deda288d45bd.png)
+
+### @600px
+
+  ![image](https://user-images.githubusercontent.com/104495751/188257909-76d00b67-fac3-4b53-af66-894b48119ac7.png)
+
 
 # Getting Started with Create React App
 
