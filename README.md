@@ -1,8 +1,8 @@
 # Site Instruction
 
-### I built the site to put into practice some React concepts that I had recently learned.
+#### I built the site to put into practice some React concepts that I had recently learned.
 
-## Some React concepts I put into practice are:
+### Some React concepts I put into practice are:
 * Hooks
   * useState
   * useEffect
