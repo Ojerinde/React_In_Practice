@@ -2,7 +2,17 @@
 
 ### I built the site to put into practice some React concepts that I had recently learned.
 
-The following is all you need to know to use the site
+## Some React concepts I put into practice are:
+* Hooks
+  * useState
+  * useEffect
+  * useContext
+* Passing data from parent to child and from child to parent using props.
+* Breaking components for reusability.
+* Pagination
+* Using React-Icons
+
+The following is all you need to know to use this site:
 
 * Your first name should longer than 3 character.
 * Your last name should be longer than 5 character.
