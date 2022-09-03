@@ -1,0 +1,10 @@
+.card {
+    border-radius: .5rem;
+    box-shadow: 0 .1rem .3rem .6rem rgba(39, 38, 38, 0.237);
+    padding: 3rem;
+}
+@media screen and (max-width: 800px) {
+    .card {
+      padding: 2rem 1.5rem;
+    }
+  }

@@ -1,0 +1,19 @@
+.form_section {
+  padding: 2rem 5rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 1200px) {
+  .form_section {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .form_section {
+    flex-direction: column;
+  }
+}
